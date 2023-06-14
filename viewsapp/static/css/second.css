@@ -1,0 +1,16 @@
+* {
+  font-size: 2rem;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: steelblue;
+}
+
+ul {
+  padding-left: 100px;
+}
+
+li {
+  color: salmon;
+}
